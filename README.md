@@ -1,7 +1,7 @@
 # Nostr Util Functions
 
 A comprehensive Python toolkit that bridges Nostr protocol functionality with Bitcoin wallet management. This library provides a seamless experience for developers looking to integrate decentralized social networking with cryptocurrency capabilities.
-
+## NIPS [0,1,3,4,7]
 ## 🌟 Features
 
 - **Identity Management**
